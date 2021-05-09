@@ -10,7 +10,7 @@ public class LambdaTest {
 
     @Test
     public void test1(){
-        // a
+        // a bb
         Runnable r1 = new Runnable() {
             @Override
             public void run() {
